@@ -5,10 +5,10 @@
   <a href="https://github.com/Ace-Krypton/Market-Managment/#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity">
+  <a href="">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
-  <a href="https://github.com/jayskhatri/Super-Market-Management/blob/master/LICENSE">
+  <a href="https://github.com/Ace-Krypton/Market-Managment/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
