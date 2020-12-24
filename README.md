@@ -1,4 +1,3 @@
-                                            	Market Managment System
 ![78-785956_market-cartoon-png-transparent-png](https://user-images.githubusercontent.com/75210504/103094337-fd87de80-45b1-11eb-97a3-78e672d4c08a.png)
 
 <h1 align="center">Welcome to Market Management System 👋</h1>
@@ -14,13 +13,12 @@
   </a>
 </p>
 
-> It&#39;s my 2nd sem project on super market management which is in c++. Just clone the Repository and run the main cpp file with gcc
-
 ### 🏠 [Homepage](https://github.com/Ace-Krypton/Market-Managment)
 
 ## Prerequisites
 
 - Code is optimized to be compile with gcc only.
+- It is recomended to try it on Windows
 
 ## Author
 
