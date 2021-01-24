@@ -20,7 +20,7 @@
 - Code is optimized to be compile with gcc only.
 - It is recomended to try it on Windows
 
-## Author
+## Authors
 
 👤 **Ferid Habibi**
 
