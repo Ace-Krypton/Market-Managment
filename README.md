@@ -17,8 +17,7 @@
 
 ## Prerequisites
 
-- Code is optimized to be compile with gcc only.
-- It is recomended to try it on Windows
+- It is recomended to try it on Linux, not Windows 
 
 ## Authors
 
